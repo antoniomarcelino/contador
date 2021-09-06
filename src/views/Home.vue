@@ -2,7 +2,7 @@
     <div   >
         <Counter 
           :year="2021"
-          :month="8"
+          :month="28"
           :day="10"
           :hour="16"
           :minute="45"
